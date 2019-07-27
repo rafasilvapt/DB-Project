@@ -1,0 +1,101 @@
+idImovel,Tipo,Area,Condicao,Valor,Morada,idCliente,idFuncionario
+1,Terreno,281,Venda,281000,"Avenida da Boavista, n371, Porto",67,11
+2,Loja,295,Aluguer,295000,"Rua das Carmelitas, n6, Braga",49,8
+3,Moradia,506,Alugado,506000,"Rua do Visconde de Azevedo, n992, Guimaraes",85,14
+4,Loja,502,Aluguer,502000,"Rua Escura, n348, Porto",12,17
+5,Apartamento,193,Alugado,193000,"Alameda das Fontainhas, n180, Porto",86,9
+6,Apartamento,237,Aluguer,237000,"Escadas do Caminho Novo, n907, Braga",81,9
+7,Moradia,363,Aluguer,363000,"Caminho da Praia, n222, Porto",100,9
+8,Moradia,866,Aluguer,866000,"Rua do Breiner, n414, Guimaraes",7,2
+9,Moradia,691,Vendido,691000,"Rua dos Caldeireiros, n706, Braga",51,9
+10,Apartamento,800,Vendido,800000,"Rua do Carmo, n800, Braga",3,1
+11,Terreno,379,Aluguer,379000,"Travessa de Sao Joao da Praia, n286, Guimaraes",16,6
+12,Loja,173,Vendido,173000,"Rua de Sao Bento da Vitoria, n939, Porto",49,4
+13,Loja,783,Vendido,783000,"Rua de Tras, n53, Porto",9,4
+14,Loja,470,Alugado,470000,"Escadas das Verdades, n587, Braga",88,9
+15,Apartamento,771,Vendido,771000,"Rua do Loureiro, n180, Guimaraes",62,13
+16,Terreno,261,Venda,261000,"Caminho do Rei, n811, Porto",43,4
+17,Terreno,813,Vendido,813000,"Rua da Bainharia, n933, Braga",77,6
+18,Apartamento,247,Alugado,247000,"Rua Nova do Almada, n784, Porto",39,3
+19,Apartamento,613,Alugado,613000,"Canada do Saco, n371, Guimaraes",16,9
+20,Apartamento,424,Aluguer,424000,"Avenida da Frana, n711, Viana do Castelo",89,1
+21,Terreno,523,Vendido,523000,"Estrada da Circunvalacao de Lisboa, n283, Porto",63,18
+22,Terreno,72,Alugado,72000,"Rua do Arsenal, n734, Porto",29,16
+23,Terreno,387,Alugado,387000,"Avenida dos Banhos, n421, Vila do Conde",79,9
+24,Moradia,270,Venda,270000,"Rua dos Ferreiros, n44, Porto",42,10
+25,Loja,757,Alugado,757000,"Caminho das Fontes, n230, Povoa de Varzim",95,2
+26,Moradia,731,Vendido,731000,"Canada do Outeiro, n976, Braganca",52,11
+27,Loja,294,Vendido,294000,"Avenida Ressano Garcia, n337, Braganca",78,3
+28,Loja,175,Venda,175000,"Rua de Tras, n177, Porto",62,7
+29,Apartamento,314,Aluguer,314000,"Caminho das Terras, n712, Porto",35,18
+30,Terreno,810,Alugado,810000,"Rua do Sacramento a Lapa, n423, Viana do Castelo",78,6
+31,Moradia,813,Alugado,813000,"Rua do Comercio do Porto, n370, Porto",15,6
+32,Apartamento,913,Alugado,913000,"Caminho da Adelaide, n686, Porto",38,19
+33,Moradia,382,Vendido,382000,"Avenida 25 de Abril, n271, Porto",71,17
+34,Moradia,516,Aluguer,516000,"Escadas do Caminho Novo, n457, Chaves",53,5
+35,Apartamento,701,Aluguer,701000,"Rua dos Mercadores, n224, Porto",69,6
+36,Moradia,982,Vendido,982000,"Rua da Constituiaao, n384, Porto",83,9
+37,Moradia,293,Vendido,293000,"Rua Escura, n719, Porto",98,1
+38,Loja,609,Vendido,609000,"Rua do Carvalhido, n516, Porto",56,7
+39,Terreno,751,Vendido,751000,"Rua dos Fanqueiros, n606, Porto",100,14
+40,Apartamento,88,Alugado,88000,"Rua do Rosario, n736, Porto",95,6
+41,Moradia,944,Alugado,944000,"Rua do Almada, n392, Porto",51,4
+42,Moradia,558,Vendido,558000,"Calada do Poao dos Mouros, n775, Porto",44,11
+43,Moradia,701,Vendido,701000,"Calada do Poao dos Mouros, n989, Porto",68,8
+44,Loja,489,Alugado,489000,"Rua dos Clerigos, n621, Porto",50,13
+45,Apartamento,266,Alugado,266000,"Rua dos Clerigos, n597, Porto",51,9
+46,Apartamento,934,Alugado,934000,"Avenida de Portugal, n237, Porto",42,4
+47,Apartamento,987,Vendido,987000,"Escadas do Codeal, n306, Porto",78,16
+48,Terreno,96,Alugado,96000,"Rua do Visconde de Azevedo, n65, Porto",50,14
+49,Apartamento,707,Venda,707000,"Rua de Sao Bento da Vitoria, n737, Porto",19,1
+50,Moradia,128,Vendido,128000,"Rua das Carmelitas, n560, Porto",9,4
+51,Loja,962,Alugado,962000,"Avenida dos Banhos, n589, Porto",6,18
+52,Terreno,709,Venda,709000,"Rua Garrett, n768, Porto",40,2
+53,Terreno,934,Venda,934000,"Estrada Corrente, n935, Chaves",60,3
+54,Terreno,435,Venda,435000,"Caminho da Pereira, n106, Chaves",65,3
+55,Apartamento,915,Vendido,915000,"Rua do Instituto Bacteriologico, n226, Porto",14,15
+56,Terreno,177,Aluguer,177000,"Caminho da Esperanca, n177, Porto",33,4
+57,Moradia,905,Aluguer,905000,"Rua de Candido dos Reis, n260, Porto",91,11
+58,Apartamento,604,Venda,604000,"Rua de Nove de Julho, n801, Porto",24,2
+59,Moradia,977,Venda,977000,"Rua da Madalena, n491, Porto",5,2
+60,Loja,733,Alugado,733000,"Rua do Instituto Bacteriologico, n140, Braganca",78,10
+61,Moradia,558,Aluguer,558000,"Canada do Morgado, n777, Porto",48,7
+62,Moradia,993,Venda,993000,"Caminho da Praia, n516, Porto",71,10
+63,Moradia,816,Vendido,816000,"Caminho da Praia, n754, Porto",61,17
+64,Moradia,461,Compra,461000,"Escadas do Codeaal, n312, Porto",70,15
+65,Apartamento,689,Alugado,689000,"Calaada do Poao dos Mouros, n9, Porto",37,4
+66,Terreno,303,Vendido,303000,"Rua de SantAna, n708, Porto",71,4
+67,Moradia,154,Alugado,154000,"Rua Nova do Almada, n498, Porto",97,12
+68,Loja,460,Aluguer,460000,"Rua da Igreja, n956, Porto",93,2
+69,Moradia,271,Aluguer,271000,"Rua de Sao Bento da Vitoria, n644, Porto",4,15
+70,Loja,337,Aluguer,337000,"Avenida 25 de Abril, n872, Porto",94,3
+71,Apartamento,161,Vendido,161000,"Rua dos Ferreiros, n451, Porto",38,2
+72,Terreno,647,Vendido,647000,"Rua do Instituto Bacteriologico, n460, Braganca",98,2
+73,Loja,898,Vendido,898000,"Rua do Almada, n605, Porto",85,5
+74,Loja,819,Alugado,819000,"Rua do Rosario, n308, Porto",55,3
+75,Moradia,200,Vendido,200000,"Rua dos Bacalhoeiros, n546, Porto",68,18
+76,Apartamento,198,Venda,198000,"Caminho da Praia, n792, Porto",46,19
+77,Apartamento,710,Aluguer,710000,"Canada do Marco, n955, Porto",53,1
+78,Loja,874,Compra,874000,"Rua do Comercio do Porto, n702, Porto",47,5
+79,Moradia,491,Venda,491000,"Caminho das Merces, n598, Porto",65,4
+80,Apartamento,345,Aluguer,345000,"Rua do Sacramento a Lapa, n121, Porto",47,18
+81,Apartamento,91,Alugado,91000,"Rua da Junqueira, n622, Povoa de Varzim",59,8
+82,Apartamento,444,Aluguer,444000,"Rua do Rosario, n452, Porto",89,1
+83,Terreno,599,Vendido,599000,"Rua da Alfandega, n67, Porto",2,12
+84,Moradia,246,Vendido,246000,"Rua dos Ferreiros, n79, Porto",76,4
+85,Moradia,835,Alugado,835000,"Rua de Santa Catarina, n497, Porto",46,7
+86,Terreno,96,Venda,96000,"Rua do Loureiro, n151, Guimaraes",20,19
+87,Apartamento,408,Aluguer,408000,"Rua Ferreira Lapa, n539, Porto",4,1
+88,Loja,722,Venda,722000,"Rua das Carmelitas, n925, Porto",17,14
+89,Moradia,458,Vendido,458000,"Rua de Santa Catarina, n755, Porto",49,8
+90,Terreno,412,Alugado,412000,"Rua dos Bacalhoeiros, n304, Vila Nova de Gaia",45,18
+91,Terreno,663,Venda,663000,"Caminho das Merces, n304, Porto",57,6
+92,Loja,627,Vendido,627000,"Avenida do Marechal Gomes da Costa, n503, Porto",16,6
+93,Loja,527,Vendido,527000,"Rua dos Fanqueiros, n50, Porto",28,16
+94,Loja,76,Venda,76000,"Rua da Betesga, n939, Braga",5,4
+95,Moradia,249,Venda,249000,"Rua do Sol a Santana, n752, Porto",23,4
+96,Terreno,176,Vendido,176000,"Rua da Galeria de Paris, n237, Porto",51,19
+97,Apartamento,480,Alugado,480000,"Rua de Sao Miguel, n918, Porto",88,4
+98,Loja,981,Aluguer,981000,"Calaada do Poao dos Mouros, n533, Porto",73,4
+99,Moradia,123,Venda,123000,"Escadas do Codeal, n144, Porto",43,18
+100,Apartamento,94,Vendido,94000,"Rua de Mouzinho da Silveira, n794, Chaves",8,6

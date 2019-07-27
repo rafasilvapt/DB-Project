@@ -1,0 +1,38 @@
+match (f18:Funcionario{id:'18'})
+match (cf18:ContactoFuncionario{id:'18'})
+match (c2:Cliente{id:'2'})
+match (cc2:ContactoCliente{id:'2'})
+create (c2)-[:Contacto]->(cc2),
+            (f18)-[:Contacto]->(cf18);
+
+MATCH (funcionario:Funcionario),(contacto:ContactoFuncionario)
+WHERE funcionario.idContactoFuncionario=ContactoFuncionario.id
+Create (funcionario)-[:Contacto]->(ContactoFuncionario);
+
+match (c95:Cliente{id:'95'})
+match (t25:Transacao{id:'25'})
+create (c95)-[:Efectua]->(t25);            
+
+match (c67:Cliente{id:'67'})
+match (i1:Imovel{id:'1'})
+create  (c67)-[:Proprietario]->(i1);
+
+match (f2:Funcionario{id:'2'})
+match (t25:Transacao{id:'25'})
+(f2)-[:Realiza]->(t25);
+
+
+
+
+
+
+match (f10:Funcionario{id:'10'})
+match (i24:Imovel{id:'24'})
+match (i60:Imovel{id:'60'})
+match (i62:Imovel{id:'62'})
+match (t69:Transacao{id:'69'}
+create (f10)-[:Tem]->(i24),
+       (f10)-[:Tem]->(i60),
+       (f10)-[:Tem]->(i62),
+       (i60)-[:Tem]->(t69),
+       (f10)-[:Realiza]->(t69);
